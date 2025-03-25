@@ -3,7 +3,7 @@
 - 🌱 I’m near the completion of my PGP Data Science program from Great Lakes
 - 🔭 I previously worked as a Mechatronics Engineer at Universall Poly Pack 
 - 🤔 I’m looking for New opportunities as a Data Analyst or Data Scientist
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me: Linkedin, email
 
 
 ## 🌐 Socials:
