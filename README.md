@@ -2,7 +2,6 @@
 
 - 🌱 I completed of my PGP Data Science program from Great Lakes and currently working as Associate Software Engineer at Saama.
 - 🔭 I previously worked as a Mechatronics Engineer at Universall Poly Pack 
-- 🤔 I’m looking for New opportunities as a Data Analyst or Data Scientist
 - 📫 How to reach me: Linkedin, email
 
 
